@@ -1,359 +1,744 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:00F0FF&height=200&section=header&text=ADITYA%20CHITRANSH&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Builder%20%7C%20Systems%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+# ⚡ ADITYA CHITRANSH
 
-<h2>Building AI systems that actually work — not just demo well.</h2>
+### `AI ENGINEER • SYSTEM BUILDER • FULL-STACK DEVELOPER`
 
-<p>
-<a href="https://github.com/heatblaze"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="https://www.linkedin.com/in/aditya-chitransh-213583275/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
-<a href="https://portfolio-aditya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=7C3AED"/></a>
-<a href="mailto:adityachitransh18@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:071A2F,100:00E5FF&text=ADITYA%20CHITRANSH&fontColor=FFFFFF&fontSize=38&fontAlignY=42&desc=AI%20SYSTEMS%20%7C%20AGENTIC%20AI%20%7C%20FULL%20STACK&descAlignY=64&descSize=15&animation=fadeIn&font=Orbitron" width="100%"/>
+
+<br>
+
+`[ SYSTEM STATUS: ONLINE ]` &nbsp;&nbsp; ` [ AI CORE: ACTIVE ]` &nbsp;&nbsp; `[ BUILD MODE: ON ]`
+
+<br><br>
+
+<a href="https://github.com/heatblaze">
+<img src="https://img.shields.io/badge/GITHUB-HEATBLAZE-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+<a href="https://portfolio-aditya.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-ONLINE-050816?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
+</a>
+<a href="https://www.linkedin.com/in/aditya-chitransh-213583275/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
 
 </div>
 
 ---
 
-## 🧬 SYSTEM PROFILE
+<div align="center">
 
-I'm a Computer Science engineer focused on building **AI-powered software systems, intelligent agents, and scalable full-stack applications**.
+## `◈ BUILDING AI SYSTEMS THAT ACTUALLY WORK — NOT JUST DEMO WELL.`
 
-I enjoy working at the intersection of **AI, backend engineering, distributed systems, cybersecurity, and product development** — turning ideas into systems that can actually be used.
+</div>
+
+---
+
+# `01 // SYSTEM PROFILE`
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                         SYSTEM PROFILE                              ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  NAME        : ADITYA CHITRANSH                                     ║
+║  ROLE        : AI / ML ENGINEER                                     ║
+║  SPECIALTY   : AGENTIC AI • LLM SYSTEMS • RAG • FULL-STACK         ║
+║                                                                      ║
+║  CURRENT     : AURA OS — MULTI-AGENT AI SYSTEM                     ║
+║                                                                      ║
+║  LEARNING    : LLMs • GENERATIVE AI • WEBGL • THREE.JS             ║
+║                                                                      ║
+║  INTERESTS   : AI SYSTEMS • BACKEND • SECURITY • CLOUD             ║
+║                                                                      ║
+║  MODE        : BUILD → TEST → DEBUG → DEPLOY → ITERATE             ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+I like building systems that go beyond a simple demo — systems that combine **AI, backend engineering, real-time communication, data, automation and usable interfaces** into something that actually works.
+
+---
+
+# `02 // CURRENT MISSION`
+
+<div align="center">
+
+## ◈ AURA OS
+
+### `MULTI-AGENT AI OPERATING SYSTEM`
+
+<a href="https://aura-os-cyan-ten.vercel.app">
+
+<img src="https://img.shields.io/badge/◉_ACCESS_AURA_OS-LIVE-00E5FF?style=for-the-badge&labelColor=050816"/>
+
+</a>
+
+</div>
+
+AURA OS is my current flagship project — a multi-agent AI environment focused on **agent orchestration, memory, intelligent workflows and task execution**.
+
+```text
+                         ┌─────────────────────┐
+                         │      AURA CORE      │
+                         │   AI ORCHESTRATOR   │
+                         └──────────┬──────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+       ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
+       │    AGENTS   │       │    MEMORY   │       │    TOOLS    │
+       └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
+              │                     │                     │
+              └─────────────────────┼─────────────────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │  EXECUTION LAYER   │
+                         │  TASKS • ACTIONS    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │     USER / UI       │
+                         └─────────────────────┘
+```
+
+### `AURA OS // CORE SYSTEMS`
+
+| SYSTEM | FUNCTION |
+|---|---|
+| `AGENT CORE` | Agent orchestration and reasoning |
+| `MEMORY` | Persistent context and retrieval |
+| `RAG` | Knowledge-grounded generation |
+| `TOOLS` | External system interaction |
+| `EXECUTION` | Turning reasoning into actions |
+| `UI` | Human-facing control layer |
+
+---
+
+# `03 // ENGINEERING STACK`
+
+### `LANGUAGES`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css,sql"/>
+</p>
+
+### `AI / MACHINE LEARNING`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/>
+</p>
+
+### `BACKEND / DATABASES`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,mysql,postgres,redis"/>
+</p>
+
+### `FRONTEND / INTERACTIVE`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite"/>
+</p>
+
+### `CLOUD / DEVOPS`
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman"/>
+</p>
+
+---
+
+# `04 // WHAT I BUILD`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI / ML
+
+- Agentic AI systems
+- LLM applications
+- RAG pipelines
+- AI memory systems
+- Multi-agent architectures
+- Intelligent automation
+- Machine learning systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ SOFTWARE ENGINEERING
+
+- Backend architectures
+- REST APIs
+- Real-time applications
+- WebSocket systems
+- Database systems
+- Full-stack applications
+- Distributed workflows
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ CYBERSECURITY
+
+- Memory forensics
+- Malware analysis
+- Secure communication
+- Audio encryption
+- Network-oriented systems
+- Security experimentation
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◈ VISUAL / INTERACTIVE
+
+- React interfaces
+- Three.js
+- WebGL
+- Interactive dashboards
+- Data visualization
+- Experimental interfaces
+
+</td>
+</tr>
+</table>
+
+---
+
+# `05 // EXPERIENCE`
+
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│ AI / ML INTERN                                                     │
+│ BeatRoute Innovations Pvt. Ltd.                                   │
+│                                                                    │
+│ Worked on AI/ML systems and production-oriented engineering.       │
+└────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────────┐
+│ FRONTEND WEB DEVELOPER INTERN                                     │
+│ Vaishnav Technologies                                             │
+│                                                                    │
+│ Built and worked on modern web interfaces and applications.         │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `06 // COMMAND STRUCTURE`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `CHAIRPERSON`
+
+**Cultural Coordination Committee**  
+MAHE Bengaluru
+
+</td>
+
+<td width="50%" valign="top">
+
+### `GENERAL SECRETARY & TREASURER`
+
+**Google Developer Student Club**  
+MIT Bengaluru
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `VICE PRESIDENT`
+
+**Da Vinci Club**  
+MIT Bengaluru
+
+</td>
+
+<td width="50%" valign="top">
+
+### `VICE FEST HEAD`
+
+**Techfest Solstice**
+
+</td>
+</tr>
+</table>
+
+> Coordinated teams and large-scale student events involving **100+ volunteers**.
+
+---
+
+# `07 // FEATURED PROJECTS`
+
+<div align="center">
+
+### `◈ SELECTED SYSTEMS`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### AURA OS
+
+**Multi-Agent AI Operating System**
+
+`AGENTS` `LLMs` `RAG` `MEMORY`
+
+<a href="https://aura-os-cyan-ten.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_SYSTEM-00E5FF?style=for-the-badge&labelColor=050816"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### CUSTOMER SEGMENTATION
+
+**Dynamic Customer Segmentation Behaviour**
+
+`PYTHON` `RFM` `K-MEANS` `ML`
+
+<a href="https://github.com/heatblaze/Customer_Segmentation">
+<img src="https://img.shields.io/badge/REPOSITORY-00E5FF?style=for-the-badge&labelColor=050816&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### MEMORY FORENSICS
+
+**Memory Forensics for Malware Analysis**
+
+`PYTHON` `PYQT5` `VOLATILITY`
+
+</td>
+
+<td width="50%" align="center">
+
+### SECURE VOICE
+
+**Real-Time Audio Encryption**
+
+`PYTHON` `AES` `SOCKETS` `PYAUDIO`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### QUANTUM SECURITY
+
+**Quantum Key Distribution Simulator**
+
+`QISKIT` `PYTHON` `PYQT5`
+
+</td>
+
+<td width="50%" align="center">
+
+### COLLABORATIVE CODE
+
+**Real-Time Collaborative Code Editor**
+
+`REACT` `FIREBASE` `MONACO` `SOCKET.IO`
+
+</td>
+</tr>
+</table>
+
+---
+
+# `08 // GITHUB ANALYTICS`
+
+<div align="center">
+
+### `◈ MISSION CONTROL // LIVE GITHUB TELEMETRY`
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg">
+  <img src="./assets/overview.dark.svg" alt="GitHub Analytics" width="100%">
+</picture>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### `TOTAL REPOSITORIES`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/repositories.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/repositories.light.svg">
+  <img src="./assets/repositories.dark.svg" alt="Total repositories" width="100%">
+</picture>
+
+</td>
+
+<td width="50%" align="center">
+
+### `STARS / REPOSITORY DATA`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/portfolio.light.svg">
+  <img src="./assets/portfolio.dark.svg" alt="Repository and star analytics" width="100%">
+</picture>
+
+</td>
+</tr>
+</table>
+
+---
+
+# `09 // CONTRIBUTION ACTIVITY GRAPH`
+
+<div align="center">
+
+### `◈ CONTRIBUTION ACTIVITY // TRAILING 12 MONTHS`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg">
+  <img src="./assets/contributions.dark.svg" alt="GitHub contribution activity graph" width="100%">
+</picture>
+
+</div>
+
+---
+
+# `10 // CONTRIBUTION STREAK`
+
+<div align="center">
+
+### `◈ CONTRIBUTION STREAK // CURRENT VS LONGEST`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/rhythm.light.svg">
+  <img src="./assets/rhythm.dark.svg" alt="GitHub contribution streak and activity rhythm" width="100%">
+</picture>
+
+</div>
+
+---
+
+# `11 // COMMIT GRAPH`
+
+<div align="center">
+
+### `◈ COMMIT TELEMETRY // ACTIVITY BY TIME`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cadence.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cadence.light.svg">
+  <img src="./assets/cadence.dark.svg" alt="GitHub commit activity graph" width="100%">
+</picture>
+
+</div>
+
+---
+
+# `12 // CONTRIBUTION HISTORY`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/lifetime.light.svg">
+  <img src="./assets/lifetime.dark.svg" alt="GitHub contribution history" width="100%">
+</picture>
+
+</div>
+
+---
+
+# `13 // FEATURED PROJECT TELEMETRY`
+
+<div align="center">
+
+### `◈ SELECTED REPOSITORIES`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-aura.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/featured-aura.light.svg">
+  <img src="./assets/featured-aura.dark.svg" alt="AURA OS repository" width="100%">
+</picture>
+
+</td>
+
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-segmentation.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/featured-segmentation.light.svg">
+  <img src="./assets/featured-segmentation.dark.svg" alt="Customer Segmentation repository" width="100%">
+</picture>
+
+</td>
+</tr>
+</table>
+
+---
+
+# `14 // ENGINEERING INTERESTS`
+
+```text
+                    ┌──────────────────────────┐
+                    │       AI SYSTEMS         │
+                    └────────────┬─────────────┘
+                                 │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+       ┌───────────┐      ┌────────────┐      ┌────────────┐
+       │   AGENTS  │      │    LLMs    │      │    RAG     │
+       └─────┬─────┘      └──────┬─────┘      └──────┬─────┘
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 │
+                                 ▼
+                    ┌──────────────────────────┐
+                    │     INTELLIGENT APPS     │
+                    └────────────┬─────────────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             │                   │                   │
+             ▼                   ▼                   ▼
+        BACKEND             REAL-TIME            SECURITY
+       SYSTEMS             SYSTEMS              SYSTEMS
+```
+
+---
+
+# `15 // CURRENT OPERATIONS`
+
+```text
+[ SYSTEM STATUS : ONLINE ]
+
+AI
+├── LLM SYSTEMS
+├── AGENTIC AI
+├── RAG
+└── AI MEMORY
+
+ENGINEERING
+├── BACKEND ARCHITECTURE
+├── DISTRIBUTED SYSTEMS
+├── REAL-TIME COMMUNICATION
+└── CLOUD INFRASTRUCTURE
+
+EXPLORATION
+├── THREE.JS
+├── WEBGL
+├── GENERATIVE AI
+└── ADVANCED AGENT ARCHITECTURES
+```
+
+---
+
+# `16 // DEVELOPMENT PHILOSOPHY`
+
+<div align="center">
+
+```text
+IDEA
+  ↓
+ARCHITECT
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+DEPLOY
+  ↓
+ITERATE
+```
+
+### `BUILD SYSTEMS. NOT JUST DEMOS.`
+
+</div>
+
+I am more interested in **building systems than collecting technologies**.
+
+The stack is secondary.
+
+The architecture, reliability and actual usefulness come first.
+
+---
+
+# `17 // WHAT I'M LEARNING`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                  ACTIVE LEARNING                     ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  > Large Language Models                             ║
+║  > Generative AI                                     ║
+║  > Agentic AI                                        ║
+║  > RAG & Long-Term Memory                            ║
+║  > Multi-Agent Architectures                         ║
+║  > WebGL / Three.js                                  ║
+║  > Intelligent Automation                            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+# `18 // COLLABORATION PROTOCOL`
+
+I'm interested in collaborating on:
+
+- `Agentic AI systems`
+- `LLM pipelines`
+- `Multi-agent architectures`
+- `RAG & memory systems`
+- `AI-powered products`
+- `Backend infrastructure`
+- `Real-time applications`
+- `Cybersecurity projects`
+- `Interesting experimental software`
+
+If you're building something technically ambitious, **let's talk.**
+
+---
+
+# `19 // ASK ME ABOUT`
+
+```text
+MULTI-AGENT ORCHESTRATION
+LLM FAILOVER DESIGN
+RAG MEMORY SYSTEMS
+FASTAPI
+WEBSOCKETS
+REACT
+CYBERSECURITY
+AI SYSTEM ARCHITECTURE
+```
+
+---
+
+# `20 // BEYOND CODE`
+
+I enjoy **spicy food, anime, movies, experimenting with new ideas, and building things that probably started as a random "what if..." thought.**
+
+### `FUN FACT`
+
+> Most of my ideas start with **"What if I built this?"**
+
+---
+
+# `21 // WHAT I'M LOOKING FOR`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                     ADITYA // HEATBLAZE                     │
-├─────────────────────────────────────────────────────────────┤
-│ ROLE        → AI / SOFTWARE ENGINEER                        │
-│ FOCUS       → AGENTIC AI • LLM SYSTEMS • FULL STACK         │
-│ INTERESTS   → AI • CYBERSECURITY • CLOUD • SYSTEMS          │
-│ BUILD MODE  → BUILD → BREAK → LEARN → IMPROVE              │
-│ STATUS      → ████████████████████░░  ONLINE                │
+│                                                             │
+│  AI ENGINEERING                                             │
+│  SOFTWARE ENGINEERING                                       │
+│  AGENTIC AI                                                 │
+│  MACHINE LEARNING                                           │
+│  BACKEND ENGINEERING                                        │
+│  FULL-STACK AI PRODUCTS                                     │
+│                                                             │
+│  → Interesting problems                                     │
+│  → Strong engineering teams                                 │
+│  → Systems that actually ship                               │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ⚡ CURRENT OPERATIONS
-
-| | |
-|---|---|
-| 🔭 **Currently working on** | [**AURA OS — Multi-Agent AI OS**](https://aura-os-cyan-ten.vercel.app) |
-| 🌱 **Currently learning** | **LLMs, Generative AI, WebGL, Three.js** |
-| 👯 **Looking to collaborate on** | **Agentic AI, LLM pipelines, multi-agent architectures & full-stack AI products** |
-| 🧪 **Currently experimenting with** | **LLMs, AI Agents, RAG & intelligent automation** |
-| 💬 **Ask me about** | **Multi-agent orchestration, LLM failover, RAG memory, FastAPI, WebSockets, React & cybersecurity** |
-| ⚡ **Fun fact** | **Most of my ideas start with "What if I built this?"** |
-
----
-
-# 🤖 AURA OS
+# `22 // SYSTEM LOG`
 
 <div align="center">
 
-<h3>MULTI-AGENT INTELLIGENCE SYSTEM</h3>
+`[ AI CORE ]` ━━━━━━━━━━━━━━━━━━━━━ `ONLINE`
 
-<a href="https://aura-os-cyan-ten.vercel.app">
-<img src="https://img.shields.io/badge/▶_LIVE_SYSTEM-00F0FF?style=for-the-badge&logoColor=000000"/>
-</a>
+`[ API LAYER ]` ━━━━━━━━━━━━━━━━━━━ `ONLINE`
 
-</div>
+`[ MEMORY ]` ━━━━━━━━━━━━━━━━━━━━━━ `ONLINE`
 
-**AURA OS** is a multi-agent AI system focused on orchestrating specialized AI agents into a unified intelligent environment.
+`[ BUILD PIPELINE ]` ━━━━━━━━━━━━━ `ACTIVE`
 
-```text
-                         ┌──────────────────┐
-                         │     AURA CORE    │
-                         └────────┬─────────┘
-                                  │
-                   ┌──────────────┼──────────────┐
-                   │              │              │
-                   ▼              ▼              ▼
-              ┌─────────┐   ┌─────────┐   ┌─────────┐
-              │  REASON │   │  MEMORY │   │  TOOLS  │
-              │  AGENT  │   │  AGENT  │   │  AGENT  │
-              └────┬────┘   └────┬────┘   └────┬────┘
-                   │              │              │
-                   └──────────────┼──────────────┘
-                                  ▼
-                         ┌──────────────────┐
-                         │   ORCHESTRATOR   │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │   INTELLIGENT    │
-                         │      OUTPUT      │
-                         └──────────────────┘
-```
-
-### Core Architecture
-
-`Agent Orchestration` · `LLM Failover` · `RAG` · `Memory Systems` · `Tool Calling` · `Real-Time Systems`
-
-<a href="https://github.com/heatblaze/Aura_OS">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
-</a>
-
----
-
-# 🧠 ENGINEERING STACK
-
-<div align="center">
-
-### AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark"/>
-
-### BACKEND / SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mongodb,redis,docker&theme=dark"/>
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,threejs&theme=dark"/>
-
-### CLOUD / DEVOPS
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark"/>
-
-### DATABASES / TOOLS
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,java,figma,opencv&theme=dark"/>
+`[ DEPLOYMENT ]` ━━━━━━━━━━━━━━━━━ `ACTIVE`
 
 </div>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# `23 // CONNECT`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heatblaze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=7C3AED&custom_title=HEATBLAZE%20%2F%20GITHUB%20ANALYTICS" height="190"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatblaze&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&custom_title=LANGUAGE%20MATRIX" height="190"/>
-
-</div>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=heatblaze&hide_border=true&background=0D1117&ring=00F0FF&fire=7C3AED&currStreakLabel=00F0FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=586069" width="700"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heatblaze&bg_color=0D1117&color=8B949E&line=00F0FF&point=7C3AED&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%"/>
-
-</div>
-
----
-
-# 📅 CONTRIBUTION CALENDAR
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00F0FF/heatblaze" alt="GitHub Contribution Calendar" width="95%"/>
-
-</div>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/heatblaze/Aura_OS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=heatblaze&repo=Aura_OS&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=7C3AED" width="400"/>
-</a>
-
-<a href="https://github.com/heatblaze/Customer_Segmentation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=heatblaze&repo=Customer_Segmentation&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=7C3AED" width="400"/>
-</a>
-
-</div>
+### `ESTABLISH CONNECTION`
 
 <br>
 
-<div align="center">
-
-<a href="https://github.com/heatblaze?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
-</a>
-
-</div>
-
----
-
-# 🧩 WHAT I BUILD
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<h3>🤖 AI SYSTEMS</h3>
-
-AI Agents<br>
-LLM Pipelines<br>
-RAG Systems<br>
-Multi-Agent Systems<br>
-AI Automation
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>⚙️ SOFTWARE</h3>
-
-Full-Stack Apps<br>
-Backend Systems<br>
-Real-Time Apps<br>
-Developer Tools<br>
-APIs & WebSockets
-
-</td>
-
-<td align="center" width="33%">
-
-<h3>🔐 SECURITY</h3>
-
-Memory Forensics<br>
-Malware Analysis<br>
-Secure Communication<br>
-Encryption<br>
-Cybersecurity
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🛰️ ENGINEERING INTERESTS
-
-```text
-AI ENGINEERING
-├── LLM Applications
-├── Agentic AI
-├── Multi-Agent Systems
-├── RAG & Memory
-└── AI Infrastructure
-
-SOFTWARE ENGINEERING
-├── Backend Architecture
-├── Distributed Systems
-├── Real-Time Communication
-├── APIs & WebSockets
-└── Scalable Applications
-
-EXPLORATION
-├── Generative AI
-├── Computer Vision
-├── Cybersecurity
-├── Cloud Infrastructure
-└── 3D / WebGL
-```
-
----
-
-# 💼 EXPERIENCE
-
-### 🤖 AI / ML Intern — BeatRoute Innovations
-
-Worked on practical **AI/ML applications and intelligent automation systems**, exploring real-world AI workflows and production-oriented solutions.
-
-### 🌐 Frontend Web Developer Intern — Vaishnav Technologies
-
-Worked on **frontend development and web-based applications**, contributing to practical software solutions.
-
----
-
-# 👨‍💼 BEYOND CODE
-
-Technology isn't the only thing I enjoy building.
-
-I've also been involved in **leadership, event management, student communities, and large-scale university events**.
-
-- 🎭 Chairperson — Cultural Coordination Committee, MAHE Bengaluru
-- 🎨 Vice President — Da Vinci Club
-- 💻 General Secretary & Treasurer — GDSC MIT Bengaluru
-- ⚡ Vice Fest Head — Techfest Solstice
-- 👥 Led and coordinated **100+ volunteers**
-- 🎪 Organized large-scale technical and cultural events
-
----
-
-# 🎯 WHAT I'M LOOKING FOR
-
-I'm interested in opportunities involving:
-
-`AI Engineering` · `Software Engineering` · `Backend Systems` · `Agentic AI` · `Machine Learning` · `Cybersecurity`
-
-I'm particularly interested in **building real products, solving difficult engineering problems, and working with teams that move fast.**
-
----
-
-# 🏆 GITHUB ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=heatblaze&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-
-</div>
-
----
-
-# 📡 CONNECT WITH ME
-
-<div align="center">
-
 <a href="mailto:adityachitransh18@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-adityachitransh18%40gmail.com-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-chitransh-213583275/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-ADITYA_CHITRANSH-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
 <a href="https://portfolio-aditya.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-ADITYA_CHITRANSH-050816?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
 </a>
 
 <a href="https://github.com/heatblaze">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-HEATBLAZE-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│              SYSTEM STATUS: ONLINE                  │
-│                                                     │
-│       BUILD → BREAK → LEARN → IMPROVE              │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║       "What if I built this?"                              ║
+║                                                            ║
+║       Then I usually end up building it.                   ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:00F0FF&height=120&section=footer" width="100%"/>
+### `SYSTEM ONLINE • KEEP BUILDING`
 
 </div>
