@@ -129,36 +129,6 @@ Three.js / WebGL     ████████████░░░░░░░�
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=heatblaze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatblaze&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    height="180"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heatblaze&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heatblaze&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
 
 # ⭐ Featured Projects
 
