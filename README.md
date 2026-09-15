@@ -132,12 +132,14 @@ Three.js / WebGL     ████████████░░░░░░░�
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=heatblaze&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatblaze&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=heatblaze&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=heatblaze&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatblaze&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    height="180"
+  />
 </p>
 
 ---
